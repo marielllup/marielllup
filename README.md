@@ -1,18 +1,18 @@
-## Hi there👋
-sono Mariella,
-studentessa magistrale in Informazione Digitale (LM-91).
-Mi occupo di comunicazione web, sviluppo, data analysis e contenuti digitali.
+### Hi, I'm Mariella ⭐
+Digital Information graduate student with a background in Communication and Digital Technologies. </br> 
+Currently interested in exploring web development, data visualization, and cybersecurity. </br>
+💬 Always learning, always building.</br>
 
 ## Portfolio
-Trovi qui i miei progetti principali:
--[Sito Web HTML/CSS/JS]
+My portfolio showcases selected projects, including websites, dashboards, GIS works, and visual content.
+-[Sito Web HTML/CSS/JS] 
 -[Pagina dinamica per presentazione dati]
 -[Dashboard Cybersecurity - Tableau]
 -[Progetto GIS - QGIS]
 -[Campagna Social]
 -[Video e Grafica]
 
-## Contatti
+## Contacts
 Email: mariellarossi244@gmail.com
 
 
