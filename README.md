@@ -1,5 +1,5 @@
 ### Hi, I'm Mariella ⭐
-Digital Information graduate student with a background in Communication and Digital Technologies. </br> 
+Master’s student in Digital Information (LM-91) with a background in Communication and Digital Technologies. </br> 
 Currently interested in exploring web development, data visualization, and cybersecurity. </br>
 💬 Always learning, always building.</br>
 
