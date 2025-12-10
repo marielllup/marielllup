@@ -5,12 +5,13 @@ Currently interested in exploring web development, data visualization, and cyber
 
 ## Portfolio
 My portfolio showcases selected projects, including websites, dashboards, GIS works, and visual content.
--[Sito Web HTML/CSS/JS] 
--[Pagina dinamica per presentazione dati]
--[Dashboard Cybersecurity - Tableau]
--[Progetto GIS - QGIS]
--[Campagna Social]
--[Video e Grafica]
+-[Visit the project repo] (https://github.com/marielllup/data_web_page)
+</br>
+-[Website]  </br>
+-[Dashboard Cybersecurity - Tableau]  </br>
+-[Progetto GIS - QGIS]  </br>
+-[Campagna Social]  </br>
+-[Video e Grafica]  </br>
 
 ## Contacts
 Email: mariellarossi244@gmail.com
