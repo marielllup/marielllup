@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dati sulla Disoccupazione</title>
+<link rel="stylesheet" href="stile.css" media="all">
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="istruzioni.js" defer></script>
+</head>
+<body>
+<header><h1>Indice di disoccupazione in Italia</h1>
+<p>Sul piano cartesiano sono rappresentati i dati relativi al tasso di disoccupazione in Italia. I dati derivano da una rilevazione totale degli individui
+  di 15 anni e oltre (15-74) in cerca di occupazione, con cadenza annuale dal 2013 al 2023. 
+  La ricerca suddivide il numero di disoccupati in territori (relativi all'anno 2023) e annate (totale nel territorio italiano).
+  Si possono selezionare i grafici rispettivi atraverso i bottoni sottostanti.
+</p></header>
+<div>
+<label title="Seleziona i dati del 2023">
+  <input type="radio" checked id="datiIniziali" class="anni" name="scelta">
+  Disoccupazione nel 2023 per territorio:
+    </label>
+    <label title="Seleziona i dati in base agli anni">
+        <input type="radio" class="anni" id="scalaAnni" name="scelta">
+        Visualizza i dati confrontando gli anni e il numero di disoccupati
+          </label>
+</div>
+  <svg></svg>
+<footer>
+    Fonte: <a id="fonte"> Dati ISTAT</a>
+</footer>
+</body>
+</html>

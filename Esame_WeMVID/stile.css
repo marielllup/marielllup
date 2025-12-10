@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0%;
+    padding: 0%;
+    background-color: white;
+    color: #333333;
+}
+header {
+    background-color: #fafad7;
+    color: rgb(0, 0, 0);
+    padding: 2%;
+    border-bottom: 3px solid teal;
+}
+header h1 {
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0%;
+    font-size: 24px;
+}
+footer {
+    color: black;
+    text-align: center;
+    margin-bottom: 30px;
+    opacity:0.6;
+}
+
+[type="radio"] {
+    margin-top: 30px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.assi path, .assi line{ 
+stroke: teal;
+}
+.assi text {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+fill: teal;
+}
+.lista{
+    color:black;
+    background-color: rgb(255, 255, 174);
+    letter-spacing: 1px;
+    border-radius: 2%;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right: 10px;
+    position:absolute;
+    right: 3%;
+    bottom:10%;
+}
+.lista li, .listaTempo{
+    padding: 2px;
+    padding-right: 20px;
+}
+
