@@ -4,14 +4,17 @@ Currently interested in exploring web development, data visualization, and cyber
 💬 Always learning, always building.</br>
 
 ## Portfolio
-My portfolio showcases selected projects, including websites, dashboards, GIS works, and visual content. </br>
-- [Visit the project repo](https://github.com/marielllup/data_web_page)
-</br>
-- [Website](https://marielllup.github.io/website_project/) </br>
-- [Dashboard Cybersecurity - Tableau]  </br>
-- [Progetto GIS - QGIS]  </br>
-- [Social Campaign](./social_media_management.pdf)  </br>
-- [Video e Grafica]  </br>
+
+My portfolio showcases selected projects, including websites, dashboards, GIS works, and visual content.
+
+- [Data Visualization – ISTAT Interactive Page](https://github.com/marielllup/data_webpage)
+- [Website Project – Vinyl Store Simulation](https://github.com/marielllup/website_project)
+- [Dashboard – Cybersecurity (CVE Analysis)](https://github.com/marielllup/cybersecurity_dashboard)
+- [GIS Project – QGIS](#)  
+- [Social Media Campaign](https://github.com/marielllup/marielllup/blob/main/social_media_management.pdf)
+- [Video & Graphic Content](#)
+
+
 
 ## Contacts
 Email: mariellarossi244@gmail.com
