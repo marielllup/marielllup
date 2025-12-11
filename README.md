@@ -7,7 +7,7 @@ Currently interested in exploring web development, data visualization, and cyber
 My portfolio showcases selected projects, including websites, dashboards, GIS works, and visual content. </br>
 - [Visit the project repo](https://github.com/marielllup/data_web_page)
 </br>
-- [Website](h  </br>
+- [Website](https://marielllup.github.io/website_project/) </br>
 - [Dashboard Cybersecurity - Tableau]  </br>
 - [Progetto GIS - QGIS]  </br>
 - [Social Campaign](./social_media_management.pdf)  </br>
