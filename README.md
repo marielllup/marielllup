@@ -7,7 +7,7 @@ Currently interested in exploring web development, data visualization, and cyber
 
 My portfolio showcases selected projects, including websites, dashboards, GIS works, and visual content.
 
-- [Data Visualization – ISTAT Interactive Page](https://github.com/marielllup/data_webpage)
+- [Data Visualization – ISTAT Interactive Page](https://github.com/marielllup/data_web_page)
 - [Website Project – Vinyl Store Simulation](https://github.com/marielllup/website_project)
 - [Dashboard – Cybersecurity (CVE Analysis)](https://github.com/marielllup/cybersecurity_dashboard)
 - [GIS Project – QGIS](#)  
