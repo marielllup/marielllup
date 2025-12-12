@@ -11,7 +11,7 @@ My portfolio showcases selected projects, including websites, dashboards, GIS wo
 - [Website Project – Vinyl Store Simulation](https://github.com/marielllup/website_project)
 - [Dashboard – Cybersecurity (CVE Analysis)](https://github.com/marielllup/cybersecurity_dashboard)
 - [GIS Project – QGIS](https://github.com/marielllup/gis_project)  
-- [Social Media Campaign](https://github.com/marielllup/social_campaign)
+- [Social Media Campaign](https://github.com/marielllup/visual_media_portfolio/social_campaign)
 - [Graphics and Visual Content](https://github.com/marielllup/visual_media_portfolio)
 
 
