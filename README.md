@@ -12,7 +12,7 @@ My portfolio showcases selected projects, including websites, dashboards, GIS wo
 - [Dashboard – Cybersecurity (CVE Analysis)](https://github.com/marielllup/cybersecurity_dashboard)
 - [GIS Project – QGIS](https://github.com/marielllup/gis_project)  
 - [Social Media Campaign](https://github.com/marielllup/social_campaign)
-- [Video & Graphic Content](https://github.com/marielllup/visual_media_portfolio)
+- [Graphics and Visual Content](https://github.com/marielllup/visual_media_portfolio)
 
 
 
